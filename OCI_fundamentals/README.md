@@ -54,3 +54,14 @@ de servicios (On-deman self service)
 -- Key Management.  
 -- Data protection.  
 -- Federation. 
+-- Data protection.  
+-- Data Safe.
+-- Network protection.  
+<br/>
+**7. Pricing Models** :heavy_dollar_sign:  
+-- PAYG (pay as you go).  
+-- Monthly Flex Universal Credits.  
+-- Block Volume Pricing.  
+-- Data Transfer Cost.  
+-- Billing and Cost Management.  
+ 
