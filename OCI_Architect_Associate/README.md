@@ -13,11 +13,8 @@
 -- Fault Tolerance.  
 -- Scalability.  
 -- Elasticity. 
-
- 
 <br/>
 **2. OCI Architecture** :computer:  
-<br/>
 -- Regions.  
 -- Availability Domains (AD).  
 -- Fault Domains (FD).  
@@ -41,7 +38,7 @@
 -- Communication to Internet.  
 -- VCN Security.  
 -- VCN Peering.  
--- Load Balancer.
+-- Load Balancer.  
 -- routing and gateway.  
 -- peering.  
 -- DRG.  
@@ -53,13 +50,13 @@
 -- Authorization.  
 -- policyes.  
 <br/>
-**6. Load Balancing** 
+**6. Load Balancing**  
 -- Public an private load balance options.  
--- supoported protocoos - TCP,HTTP/1.0,http/1.1,http/2, webSocket. 
--- public load balancer.
--- Private load balancer.
+-- supoported protocoos - TCP,HTTP/1.0,http/1.1,http/2, webSocket.   
+-- public load balancer.  
+-- Private load balancer.  
 <br/>
 **7. Compute**  
--- Bare Metal shape.
--- Virtual Machine(VM).
--- Dedicate Vm Host (DVH).
+-- Bare Metal shape.  
+-- Virtual Machine(VM).  
+-- Dedicate Vm Host (DVH).  
