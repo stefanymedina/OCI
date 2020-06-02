@@ -26,14 +26,14 @@ de servicios (On-deman self service)
 ###### Compute services  
 -- Bare Metal.  
 -- Virtual Mavchines (migration from on premise).  
--- Container Engine.
+-- Container Engine.    
 -- Functions.  
 -- Dedicated hosts.  
 -- Oracle Functions.  
 <br/>
 **3. Storage service** :floppy_disk:  
 -- Block Volum.  
--- Block Volume Tiers.  
+-- Block Volume Tiers.    
 -- Local NVMe (Non-Volatile Memory Express).  
 -- File Storage Service (FSS).  
 -- Object Storage.  
@@ -44,13 +44,13 @@ de servicios (On-deman self service)
 -- VCN Peering.  
 -- Load Balancer.  
 <br/>
-**5. IAM** :busts_in_silhouette:
--- IAM Users and Groups.  
--- Authentication. 
+**5. IAM** :busts_in_silhouette:    
+-- IAM Users and Groups.    
+-- Authentication.   
 -- Authorization.  
 <br/>
-**6. OCI Security** :customs:
--- Shared Security model. 
+**6. OCI Security** :customs:    
+-- Shared Security model.  
 -- Key Management.  
 -- Data protection.  
 -- Federation. 
