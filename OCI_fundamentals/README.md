@@ -38,18 +38,18 @@ de servicios (On-deman self service)
 -- File Storage Service (FSS).  
 -- Object Storage.  
 <br/>
-**4. Virtual Cloud Network (VCN) ** :cloud:  
+**4. Virtual Cloud Network (VCN)** :cloud:  
 -- Communication to Internet.  
 -- VCN Security.  
 -- VCN Peering.  
 -- Load Balancer.  
 <br/>
-**5. IAM ** :busts_in_silhouette:
+**5. IAM** :busts_in_silhouette:
 -- IAM Users and Groups.  
 -- Authentication. 
 -- Authorization.  
 <br/>
-**6. OCI Security ** :customs:
+**6. OCI Security** :customs:
 -- Shared Security model. 
 -- Key Management.  
 -- Data protection.  
